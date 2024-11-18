@@ -373,7 +373,7 @@ max_author_limit: 3 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
@@ -632,15 +632,10 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
+  - basic information
   - work
   - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
+  - research interests
+  - professional experience
   - skills
-  - languages
-  - interests
   - references

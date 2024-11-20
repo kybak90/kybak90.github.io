@@ -2,6 +2,45 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Defined by Kwan-Youg Bak
+
+.my-heading{
+  color: $hr-color;
+  border-bottom: 2px solid $hr-color-2;
+  border-top: 2px solid $hr-color-2;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px; 
+}
+
+.my-sub{
+  border-top: 2px solid $hr-color-2;
+  padding-top: 10px;
+  margin: 0px 0px 2px 0px;
+  font-size: 1rem;
+}
+
+.my-sub-sub{
+  margin: 0px 0px 0px 0px;
+  font-size: 0.85rem;
+}
+
+.spn1{
+  color: $hr-color;
+}
+
+.spn2{
+  color: $hr-color;
+  font-weight: bold;
+}
+
+.spn3{
+  color: $hr-color;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
 // Typography
 
 p,
@@ -547,7 +586,7 @@ footer.sticky-bottom {
 }
 
 .post-title {
-  color: $blue-color;
+  color: $hr-color;
 }
 
 
@@ -666,7 +705,7 @@ footer.sticky-bottom {
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -676,7 +715,7 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
 
     span {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
     }
   }
 
@@ -753,40 +792,7 @@ footer.sticky-bottom {
         }
       }
 
-      .links {
-        a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
-
-          &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
-          }
-        }
-        a.award.btn {
-          border-color: var(--global-highlight-color);
-        }
-      }
-
-      .badges {
-        padding-bottom: 0.5rem;
-        span {
-          display: inline-block;
-          color: $black-color;
-          height: 100%;
-          padding-right: 0.5rem;
-          vertical-align: middle;
-
-          &:hover {
-            text-decoration: underline;
-          }
-        }
-      }
+      
 
       .hidden {
         font-size: 0.875rem;

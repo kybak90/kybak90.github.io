@@ -11,8 +11,13 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    <p class="my-sub">{{ page.subtitle }}</p>
+    <p class="my-sub-sub"><span class="spn1">address:</span> {{ page.address }}</p>
+    <p class="my-sub-sub"><span class="spn1">phone:</span> {{ page.phone }}  | <sapn class="spn1">e-mail:</sapn> {{ page.email }}</p>
   </header>
+
+<br>
+<br>
 
   <article>
     {% if page.profile %}

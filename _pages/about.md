@@ -1,21 +1,37 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Sungshin Women's University</a>. 2, Bomun-ro 34da-gil, Seongbuk-gu, Seoul 02844, Republic of Korea. 
+subtitle: School of Mathematics, Statistics and Data Science, <a href='https://www.sungshin.ac.kr/main_eng/15342/subview.do'>Sungshin Women's University</a>. 
+address: 2, Bomun-ro 34da-gil, Seongbuk-gu, Seoul 02844, Republic of Korea.
+phone: +82-2-920-7186
+email: kybak@sungshin.ac.kr
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<span class="spn1">Welcome to the Infinite Dimensional Models & Inference Lab!</span>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am Kwan-Young Bak, leading this lab. Since March 2022, I have been working as an assistant professor at the School of Mathematics, Statistics, and Data Science at Sungshin Women’s University. I received my Ph.D. in Mathematical Statistics from Korea University in August 2021.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our lab is primarily focused on developing methodologies and investigating the theoretical properties of infinite (or high) dimensional statistical models. To distinguish these from classical statistical theories based on parametric models, such approaches are often referred to as nonparametric models. Our agenda is to advance both the theoretical understanding and practical applications of infinite-dimensional models.
+
+This website serves as a platform for collaboration and communication. Resources such as the complete list of publications and research projects, teaching materials, and references are always available upon request. If you have any questions, are interested in collaborative research, or wish to join our lab, please do not hesitate to reach out!
+
+
+<div style="padding-top: 50px;">
+  <h3 class="my-heading">Research Interest</h3>
+  <p>This paragraph has extra space above it.</p>
+</div>
+
+<div style="padding-top: 50px;">
+  <h3 class="my-heading">Join Us</h3>
+  <p>We’re always looking for talented, motivated people to join us. If you’re interested in the things we do and you’d like to join us, or visit our lab, please contact <span class="spn2">Kwan-Young Bak</span> (<span class="spn1">kybak@sungshin.ac.kr</span>).</p>
+</div>

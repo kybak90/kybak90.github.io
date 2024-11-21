@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<span class="spn1">Welcome to the Infinite Dimensional Models & Inference Lab!</span>
+<span class="spn3">Welcome to the Infinite Dimensional Models & Inference Lab!</span>
 
 I am Kwan-Young Bak, leading this lab. Since March 2022, I have been working as an assistant professor at the School of Mathematics, Statistics, and Data Science at Sungshin Women’s University. I received my Ph.D. in Mathematical Statistics from Korea University in August 2021.
 

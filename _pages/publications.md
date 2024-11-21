@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-This page highlights <span class="spn1">selected publications</span>, <span class="spn1">recently submitted papers (under review & revision)</span>, focusing on topics we aim to expand, generalize, or further explore. The purpose of sharing this list is primarily to foster collaboration and communication. The complete list of all papers and projects is available upon request.
+This page highlights <span class="spn1">selected publications</span> and <span class="spn1">recently submitted papers (under review & revision)</span>, focusing on topics we aim to expand, generalize, or further explore. The purpose of sharing this list is primarily to foster collaboration and communication. The complete list of all papers and projects is always available upon request.
 
 <!-- _pages/publications.md -->
 
@@ -26,7 +26,7 @@ This page highlights <span class="spn1">selected publications</span>, <span clas
 </div>
 
 
-<div style="padding-top: 50px;">
+<div style="padding-top: 100px;">
   <h3 class="my-heading">Recently Submitted Papers (Under Review & Revision)</h3>
 </div>
 
@@ -34,7 +34,6 @@ This page highlights <span class="spn1">selected publications</span>, <span clas
 
 <div class="publications">
 
-<h2 class="bibliography"></h2>
 <ol class="bibliography"><li>
 
 <div class="row">

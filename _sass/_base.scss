@@ -41,6 +41,12 @@
   font-size: 1.2rem;
 }
 
+.spn4{
+  color: $hr-color;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
 .my-image{
   width: 70%;
   margin: auto;
@@ -51,6 +57,35 @@
   width: 10%;
   margin: auto;
   display: block;
+}
+
+.my-profile {
+  width: 100%;
+
+  .more-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
+.my-profile.float-right {
+  margin-left: 1rem;
+}
+
+.my-profile.float-left {
+  margin-right: 1rem;
+}
+
+@media (min-width: 576px) {
+  .my-profile {
+    width: 20%;
+  }
 }
 
 // End defined by Kwan-Young Bak

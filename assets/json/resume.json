@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Kwan-Young Bak",
-    "label": "Statistician",
+    "label": "Statistician, Data Scientist",
     "image": "",
     "email": "kybak@sungshin.ac.kr",
-    "phone": "+82-2920-7186",
+    "phone": "+82-2-920-7186",
     "url": "https://kybak90.github.io",
     "summary": "A statistician with a keen interest in the theory of statistical learning and the application of statistical methods",
     "location": {
@@ -16,7 +16,7 @@
   },
   "work": [
     {
-      "name": "Schoolof Mathematics, Statistics and Data Science, Sungshin Women's University",
+      "name": "School of Mathematics, Statistics and Data Science, Sungshin Women's University",
       "position": "Assistant Professor",
       "location": "Seoul, Republic of Korea",
       "url": "kybak@sungshin.ac.kr",
@@ -39,33 +39,47 @@
     {
       "institution": "Department of Statistics, Korea University",
       "location": "Seoul, Republic of Korea",
-      "area": "Mathematical Statistics",
-      "studyType": "PhD",
-      "startDate": "2017-03-01",
-      "endDate": "2021-08-31",
-      "courses": ["Thesis: Function Estimation under Low-dimensional Structures (Advisor: Prof. Ja-Yong Koo)"]
+      "area": "Statistics",
+      "studyType": "B.A.",
+      "startDate": "2009-03-01",
+      "endDate": "2017-02-28"
     },
     {
       "institution": "Department of Statistics, Korea University",
       "location": "Seoul, Republic of Korea",
-      "area": "Statistics",
-      "studyType": "PhD",
+      "area": "Mathematical Statistics",
+      "studyType": "Ph.D.",
       "startDate": "2017-03-01",
-      "endDate": "2021-08-31"
+      "endDate": "2021-08-31",
+      "courses": ["Thesis: Function Estimation under Low-dimensional Structures (Advisor: Prof. Ja-Yong Koo)"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "- Proficient in Python, R/Rcpp, C, C++, JavaScript, SQL",
+        "- Experience in Matlab, Fortran"
+      ]
+    },
+    {
+      "name": "Statistical Software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "- Proficient in SAS, SPSS", 
+        "- Experience in AMOS"
+      ]
+    },
+    {
+      "name": "Application Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "- Full-stack web development",
+        "- Cross-platform desktop application development"
       ]
     }
   ],
@@ -88,12 +102,60 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Development of a nonparametric spatiotemporal model and optimization methodologies considering the complex structure of environmental exposure factors",
+      "summary": "Ministry of Science and ICT - National Research Foundation of Korea",
+      "highlights": ["Nonparametric spatiotemporal model", "Environmental exposure data"],
+      "startDate": "2024-04-01",
+      "endDate": "2029-03-31"
+    },
+    {
+      "name": "Development of penalization methodologies for multi-task nonparametric function estimation",
+      "summary": "Ministry of Science and ICT - National Research Foundation of Korea",
+      "highlights": ["Multi-task learning", "Penalization scheme"],
+      "startDate": "2022-09-01",
+      "endDate": "2025-02-28"
+    },
+    {
+      "name": "A Study on the development of a functional differentiation model for second tier general hospitals.",
+      "summary": "Ministry of health and welfare",
+      "highlights": ["Functional differentiation Model", "Second tier general hospitals"],
+      "startDate": "2024-10-01",
+      "endDate": "2025-08-31"
+    },
+    {
+      "name": "Designing a survey panel to evaluate minimum wage policy effects",
+      "summary": "Ministry of Employment and Labor",
+      "highlights": ["Survey Panel Design", "Minimum Wage Policy"],
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-31"
+    },
+    {
+      "name": "Development of a methodology for optimal recovery of functional signals under low-dimension structures",
+      "summary": "Ministry of Science and ICT - National Research Foundation of Korea",
+      "highlights": ["Functional data", "Low-rank structure"],
+      "startDate": "2021-09-01",
+      "endDate": "2022-02-28"
+    },
+    {
+      "name": "Establishment of optimal convergence rates for multivariate regression function estimation in reproducing kernel Hilbert spaces",
+      "summary": "Sungshin Women's University",
+      "highlights": ["Reproducing kernel Hilbert space", "Optimal convergence rates"],
+      "startDate": "2024-03-01",
+      "endDate": "2025-02-28"
+    },
+    {
+      "name": "Study on latent variable models for analyzing multi-sourse perception score data",
+      "summary": "Sungshin Women's University",
+      "highlights": ["latent variable model", "Multi-sourse perception score"],
+      "startDate": "2023-03-01",
+      "endDate": "2024-02-28"
+    },
+    {
+      "name": "Development of a nonparametric multi-task regression method under joint psarsity condition",
+      "summary": "Sungshin Women's University",
+      "highlights": ["Multi-task regression ", "Joint Sparsity"],
+      "startDate": "2022-03-01",
+      "endDate": "2023-02-28"
     }
   ]
 }

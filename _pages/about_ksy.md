@@ -1,6 +1,6 @@
 
 
-<span class="spn4">Seoyeon Kim</span>
+<span class="spn3">Seoyeon Kim</span>
 
 Tell the world about yourself. 
 

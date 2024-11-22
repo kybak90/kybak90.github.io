@@ -49,19 +49,19 @@
 
 
 
-<span class="spn3">Seoyeon Kim</span>
+<span class="spn3">Seyoung Lee</span>
 
 <ul>
   <li>
     <span class="spn5">Research Interests</span>
     <p class="my-enumerate">
-    - Software Development
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Software Development
     </p>
     <p class="my-enumerate">
-    - Geometric Statistics
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Geometric Statistics
     </p>
     <p class="my-enumerate">
-    - Penalization Method
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Penalization Method
     </p>
   </li>
   <li>

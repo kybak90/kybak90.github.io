@@ -54,13 +54,13 @@
   <li>
     <span class="spn5">Research Interests</span>
     <p class="my-enumerate">
-    - Survey Sampling
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Survey Sampling
     </p>
     <p class="my-enumerate">
-    - Multivariate Data Analysis
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Multivariate Data Analysis
     </p>
     <p class="my-enumerate">
-    - Covaraince Modelling
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Covaraince Modelling
     </p>
   </li>
   <li>

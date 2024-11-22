@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Members
+title: Master Course
 description: 
 nav: false
 nav_order: 

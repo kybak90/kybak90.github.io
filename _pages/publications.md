@@ -28,6 +28,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Recently Submitted Papers (Under Review & Revision)</h3>
+  <p> <span class="spn1">Last updated: November 22, 2024. </span> </p>
 </div>
 
 <br>
@@ -38,16 +39,16 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <div class="row">
   <!-- Entry bib key -->
-  <div id="lee2023understanding" class="col-sm-10">
+  <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Understanding the Dynamics of COVID-19 Risk Perception: A Two-Year Repeated Cross-sectional Study in Korea</div>
+    <div class="title">Comparison of cognitive and affective dimensions of multi-risk perception according to sociodemographic characteristics in a South Korean population</div>
     <!-- Author -->
     <div class="author">
-    Minjung Lee, Seongoh Park, <em>Kwan-Young Bak</em>, and
-    <span class="more-authors" title="click to view 5 more authors" onclick="
+    Ryemi Do, Kwan-Young Bak, Myoungjee Jung, and
+    <span class="more-authors" title="click to view 4 more authors" onclick="
               var element = $(this);
               element.attr('title', '');
-              var more_authors_text = element.text() == '5 more authors' ? 'Sujin Seo, Mijin Kim, Seoyeon Kim, Haemin Yong, Myoungsoon You' : '5 more authors';
+              var more_authors_text = element.text() == '4 more authors' ? 'Seoyeon Kim, Deok Hyun Jang, Yookyung Eoh, Won Mo Jang' : '4 more authors';
               var cursorPosition = 0;
               var textAdder = setInterval(function(){
                 element.html(more_authors_text.substring(0, cursorPosition + 1));
@@ -55,11 +56,199 @@ This page highlights <span class="spn1">selected publications</span> and <span c
                   clearInterval(textAdder);
                 }
             }, '10');
-          ">5 more authors</span>
+          ">4 more authors</span>
     </div>
-    <!-- Journal/Book title and date -->
-    <div class="periodical">
-      <em>Journal of Risk Research</em>,  2024
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Political party preference, accountability, and risk perception: Crowd crush in South Korea</div>
+    <!-- Author -->
+    <div class="author">
+    Yookyung Eoh, <em>Kwan-Young Bak</em>, Seoyeon Kim, and
+    <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Deok Hyun Jang, Hoon Lee, Won Mo Jang' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Linear covariance selelction model via &#8467;<sub>1</sub> penalization</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em>, Seongoh Park
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Minimax optimality of kernel ridge regression when kernel eigenvalues decay polynomially or exponentially</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em>, Woojoo Lee
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Calibrating a simulated exposure distribution</div>
+    <!-- Author -->
+    <div class="author">
+    Jiwoong Yu, Xueyan Zheng, <em>Kwan-Young Bak</em>, and
+    <span class="more-authors" title="click to view 2 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '2 more authors' ? 'Kiyoung Lee, Woojoo Lee' : '2 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">2 more authors</span>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">spheresmooth: a penalized piecewie geodeisc curve fitting on a sphere</div>
+    <!-- Author -->
+    <div class="author">
+    Jae-Hwan Jhong, Seyoung Lee, Ja-Yong Koo, <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Adaptive log-wavelet density estimation with resolution identification</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em>, Eun-Ji Lee, Jae-Hwan Jhong
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Super-precision change point detection using weighted total variation penalty</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em>, Eun-Ji Lee, Jae-Hwan Jhong
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">ALTBI: Constructing Improved Outlier Detection Models via Optimization of Inlier-Memorization Effect</div>
+    <!-- Author -->
+    <div class="author">
+    Seoyoung Cho, Jaesung Hwang, <em>Kwan-Young Bak</em>, Dongha Kim
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Low-Dimension Adaptive Neural Network Regression with Directional Change Detection via Nuclear Norm Penalization</div>
+    <!-- Author -->
+    <div class="author">
+    Yongku Kim, Jae-Hwan Jhong, Ja-Yong Koo, <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Nonparametric multi-task regression under group sparsity and low-rank structures</div>
+    <!-- Author -->
+    <div class="author">
+    Donghwi Nam, Ja-Yong Koo, <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Dimensionality reduction in nultivariate nonparametric regression via nuclear norm penalization</div>
+    <!-- Author -->
+    <div class="author">
+    Donghwi Nam, Ja-Yong Koo, <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Multi-task nonparametric regression under joint sparsity</div>
+    <!-- Author -->
+    <div class="author">
+    Gyeongmin Kim, Jae-Hwan Jhong, <em>Kwan-Young Bak</em>
     </div>
   </div>
 </div>
@@ -68,6 +257,8 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 </ol>
 </div>
 
+<br>
+<br>
 
 <!--
 

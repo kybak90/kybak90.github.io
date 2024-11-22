@@ -49,19 +49,19 @@
 
 
 
-<span class="spn3">Seoyeon Kim</span>
+<span class="spn3">Gyeongmin Kim</span>
 
 <ul>
   <li>
     <span class="spn5">Research Interests</span>
     <p class="my-enumerate">
-    - Nonparametric Estimation
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Nonparametric Estimation
     </p>
     <p class="my-enumerate">
-    - Minimax Theory
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Minimax Theory
     </p>
     <p class="my-enumerate">
-    - Convex Optimization
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Convex Optimization
     </p>
   </li>
   <li>

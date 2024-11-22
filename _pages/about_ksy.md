@@ -23,7 +23,7 @@
 
   li:last-child {
     flex: 2; /* Publications 칸을 더 크게 */
-    max-width: 700px; /* 최대 너비 제한 */
+    max-width: 600px; /* 최대 너비 제한 */
   }
 
   .spn5 {
@@ -55,13 +55,13 @@
   <li>
     <span class="spn5">Research Interests</span>
     <p class="my-enumerate">
-    - Biostatistics
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Biostatistics
     </p>
     <p class="my-enumerate">
-    - Clinical Trials
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Clinical Trials
     </p>
     <p class="my-enumerate">
-    - Nonparametric Inference
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Nonparametric Inference
     </p>
   </li>
   <li>

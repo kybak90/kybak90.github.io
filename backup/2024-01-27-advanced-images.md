@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with advanced image components
+title: a post with image slider
 date: 2024-01-27 11:46:00
 description: this is what advanced image components could look like
 categories: conference

@@ -38,7 +38,7 @@
 .spn3{
   color: $hr-color;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 .spn4{
@@ -79,13 +79,21 @@
 }
 
 .my-profile.float-left {
-  margin-right: 1rem;
+  margin-right: 5rem;
 }
 
 @media (min-width: 576px) {
   .my-profile {
     width: 20%;
   }
+}
+
+.spn5 {
+  font-size: 18px; /* 바깥 리스트의 글자 크기 */
+}
+
+.spn6 {
+  font-size: 16px; /* 서브 리스트의 글자 크기 */
 }
 
 // End defined by Kwan-Young Bak
@@ -301,7 +309,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 3rem;
 }
 
 @media (min-width: 576px) {

@@ -26,7 +26,7 @@ Our lab is primarily focused on developing methodologies and investigating the t
 This website serves as a platform for collaboration and communication. Resources such as the complete list of publications and research projects, teaching materials, and references are always available upon request. If you have any questions, are interested in collaborative research, or wish to join our lab, please do not hesitate to reach out!
 
 
-<div style="padding-top: 50px;">
+<div style="padding-top: 40px;">
   <h3 class="my-heading">Research Interest</h3>
   <p>From my graduate studies, my primary interest from a statistical perspective has been in theoretical statistics and the development of novel methods. In particular, I have conducted various studies centered around <span class="spn1">minimax theory</span> in the context of <span class="spn1">learning theory</span>. My work actively explores the development and theoretical investigation of <span class="spn1">kernel learning methods</span> grounded in <span class="spn1">reproducing kernel Hilbert space theory</span>, as well as function estimation based on <span class="spn1">basis expansion</span> using, for example, <span class="spn1">spline and wavelet</span> functionss. Additionally, I have a strong interest in <span class="spn1">high-dimensional estimation</span> problems and the development of <span class="spn1">penalization methodologies</span> to address these challenges. The diagram below illustrates several of these research areas.</p>
 

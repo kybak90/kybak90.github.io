@@ -189,7 +189,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">ALTBI: Constructing Improved Outlier Detection Models via Optimization of Inlier-Memorization Effect</div>
+    <div class="title">ALTBI: constructing improved outlier detection models via optimization of inlier-memorization effect</div>
     <!-- Author -->
     <div class="author">
     Seoyoung Cho, Jaesung Hwang, <em>Kwan-Young Bak</em>, Dongha Kim
@@ -203,7 +203,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Low-Dimension Adaptive Neural Network Regression with Directional Change Detection via Nuclear Norm Penalization</div>
+    <div class="title">Low-dimension adaptive neural network regression with directional change dDetection via nuclear norm Penalization</div>
     <!-- Author -->
     <div class="author">
     Yongku Kim, Jae-Hwan Jhong, Ja-Yong Koo, <em>Kwan-Young Bak</em>

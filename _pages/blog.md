@@ -111,7 +111,9 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
+    <a href="{{ post.redirect | default: post.url | relative_url }}">
+      <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
+    </a>
   </div>
 </div>
 {% endif %}

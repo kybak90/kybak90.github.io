@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 <span class="spn3">Welcome to the Infinite Dimensional Models & Inference Lab!</span>
 
-I am <span class="spn2">Kwan-Young Bak</span>, leading this lab. Since March 2022, I have been working as an assistant professor at the School of Mathematics, Statistics, and Data Science at Sungshin Women’s University. I received my Ph.D. in Mathematical Statistics from Korea University in August 2021.
+I am <span class="spn2">Kwan-Young Bak</span>, leading this lab. Since March 2022, I have been working as an assistant professor at the School of Mathematics, Statistics and Data Science at Sungshin Women’s University. I received my Ph.D. in Mathematical Statistics from Korea University in August 2021.
 
 Our lab is primarily focused on developing methodologies and investigating the theoretical properties of infinite (or high) dimensional statistical models. To distinguish these from classical statistical models based on parametric assumptions, such approaches are often referred to as nonparametric models. Our agenda is to advance both the theoretical understanding and practical applications of infinite-dimensional models.
 

@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-This page highlights <span class="spn1">selected publications</span> and <span class="spn1">recently submitted papers (under review & revision)</span>, focusing on topics we aim to expand, generalize, or further explore. The purpose of sharing this list is primarily to foster collaboration and communication. The complete list of all papers and projects is always available upon request.
+This page highlights <span class="spn1">selected publications (focused on recent works)</span> and <span class="spn1">recently submitted papers (under review & revision)</span>, focusing on topics we aim to expand, generalize, or further explore. The purpose of sharing this list is primarily to foster collaboration and communication. The complete list of all papers and projects is always available upon request.
 
 <!-- _pages/publications.md -->
 
@@ -185,19 +185,18 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <br>
 
+<!--
 <div class="row">
-  <!-- Entry bib key -->
   <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">ALTBI: constructing improved outlier detection models via optimization of inlier-memorization effect</div>
-    <!-- Author -->
     <div class="author">
     Seoyoung Cho, Jaesung Hwang, <em>Kwan-Young Bak</em>, Dongha Kim
     </div>
   </div>
 </div>
-
 <br>
+-->
+
 
 <div class="row">
   <!-- Entry bib key -->

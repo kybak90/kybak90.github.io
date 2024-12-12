@@ -13,7 +13,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+{% include bib_search.liquid %} 
 
 <div style="padding-top: 50px;">
   <h3 class="my-heading">Selected Publications</h3>
@@ -84,7 +84,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
             }, '10');
           ">3 more authors</span>
     </div>
-  </div>
+  </div> 
 </div>
 
 <br>

@@ -4,35 +4,44 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
-      {% for profile in page.profiles %}
-        <hr>
-        <div class="my-profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-          {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-            {% endif %}
-            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-          {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
-        </div>
+      {% for group in page.profiles %}
+        <!-- 그룹 섹션 -->
+        <div class="profile-group" style="margin-bottom: 40px;"> <!-- 그룹 간 간격 추가 -->
+          <!-- 그룹 제목 -->
+          <h2 class="group-title" style="color: var(--hr-color); border-bottom: 2px solid var(--hr-color); padding-bottom: 10px; margin-bottom: 20px;">
+            {{ group.group_name }}
+          </h2>
+          <div class="group-members">
+            {% for profile in group.members %}
+              <hr>
+              <div class="my-profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+                {% if profile.image %}
+                  {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+                  {% if profile.image_circular %}
+                    {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+                  {% else %}
+                    {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+                  {% endif %}
+                  {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+                  {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+                {% endif %}
+                {% if profile.more_info %}
+                  <div class="more-info">{{ profile.more_info }}</div>
+                {% endif %}
+              </div>
 
-        <div class="clearfix">
-          {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
+              <div class="clearfix">
+                {% if profile.content %}
+                  {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+                  {{ profile_content | markdownify }}
+                {% else %}
+                  {{ content }}
+                {% endif %}
+              </div>
+            {% endfor %}
+          </div>
         </div>
       {% endfor %}
     {% endif %}
   </article>
 </div>
-
-

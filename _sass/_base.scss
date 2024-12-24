@@ -4,6 +4,28 @@
 
 // Defined by Kwan-Youg Bak
 
+/* 그룹 제목 스타일 */
+.group-title {
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+/* 그룹 간 간격 */
+.profile-group {
+  margin-bottom: 60px; /* 그룹 간 여백 */
+}
+
+/* 개별 프로필 간 구분 */
+.group-members hr {
+  border-top: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+
 .my-heading{
   color: $hr-color;
   border-bottom: 2px solid $hr-color-2;

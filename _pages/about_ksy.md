@@ -55,14 +55,22 @@
   <li>
     <span class="spn5">Research Interests</span>
     <p class="my-enumerate">
-    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Biostatistics
+      <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Biostatistics
     </p>
     <p class="my-enumerate">
-    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Clinical Trials
+      <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Clinical Trials
     </p>
     <p class="my-enumerate">
-    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Nonparametric Inference
+      <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Nonparametric Inference
     </p>
+
+    <div style="height: 20px;"></div>
+
+    <span class="spn5">First Job</span>
+    <p class="my-enumerate">
+      <i class="fa-solid fa-briefcase" style="font-size:0.7rem"></i> Ph.D. Student, Department of Biostatistics, Korea University
+    </p>
+
   </li>
   <li>
     <span class="spn5">Publications</span>
@@ -70,13 +78,13 @@
       - Nonparametric logistic regression based on sparse triangulation over a compact domain (published)
     </p>
     <p class="my-enumerate">
-    - Dynamics of COVID-19 Risk Perception and Predictors in South Korea: A Two-Year Longitudinal Study from the Pandemic’s Beginning (2020-2021) (accepted)
+      - Dynamics of COVID-19 Risk Perception and Predictors in South Korea: A Two-Year Longitudinal Study from the Pandemic’s Beginning (2020-2021) (published)
     </p>
     <p class="my-enumerate">
-    - Comparison of cognitive and affective dimensions of multi-risk perception according to sociodemographic characteristics in a South Korean population (under review)
+      - Comparison of cognitive and affective dimensions of multi-risk perception according to sociodemographic characteristics in a South Korean population (under review)
     </p>
     <p class="my-enumerate">
-    - Political party preference, accountability, and risk perception: Crowd crush in South Korea (under review)
+      - Political party preference, accountability, and risk perception: Crowd crush in South Korea (under review)
     </p>
   </li>
 </ul>

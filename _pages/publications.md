@@ -16,7 +16,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
 {% include bib_search.liquid %} 
 
 <div style="padding-top: 50px;">
-  <h3 class="my-heading">Selected Publications</h3>
+  <h3 class="my-heading">Selected Publications (Past Four Years)</h3>
 </div>
 
 <div class="publications">
@@ -28,7 +28,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Recently Submitted Papers (Under Review & Revision)</h3>
-  <p> <span class="spn1">Last updated: November 22, 2024. </span> </p>
+  <p> <span class="spn1">Last updated: December 29, 2024. </span> </p>
 </div>
 
 <br>
@@ -147,6 +147,22 @@ This page highlights <span class="spn1">selected publications (focused on recent
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
+    <div class="title">Efficient curve fitting with penalized B-splines:
+methods and applications in oceanography and
+ecology</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em>, Dong-Young Lee, Ju-Seong Lee, Jae-Hwan Jhong
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
     <div class="title">spheresmooth: a penalized piecewie geodeisc curve fitting on a sphere</div>
     <!-- Author -->
     <div class="author">
@@ -202,7 +218,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Low-dimension adaptive neural network regression with directional change dDetection via nuclear norm Penalization</div>
+    <div class="title">Low-dimension adaptive neural network regression with directional change detection via nuclear norm penalization</div>
     <!-- Author -->
     <div class="author">
     Yongku Kim, Jae-Hwan Jhong, Ja-Yong Koo, <em>Kwan-Young Bak</em>
@@ -247,7 +263,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
     <div class="title">Multi-task nonparametric regression under joint sparsity</div>
     <!-- Author -->
     <div class="author">
-    Gyeongmin Kim, Jae-Hwan Jhong, <em>Kwan-Young Bak</em>
+    Jae-Hwan Jhong, Gyeongmin Kim, <em>Kwan-Young Bak</em>
     </div>
   </div>
 </div>

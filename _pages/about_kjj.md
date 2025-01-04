@@ -60,7 +60,7 @@
     <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Multivariate Data Analysis
     </p>
     <p class="my-enumerate">
-    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Covaraince Modelling
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Covariance Modelling
     </p>
   </li>
   <li>

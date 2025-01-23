@@ -137,20 +137,6 @@ ecology</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">spheresmooth: a penalized piecewie geodeisc curve fitting on a sphere</div>
-    <!-- Author -->
-    <div class="author">
-    Jae-Hwan Jhong, Seyoung Lee, Ja-Yong Koo, <em>Kwan-Young Bak</em>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Adaptive log-wavelet density estimation with resolution identification</div>
     <!-- Author -->
     <div class="author">

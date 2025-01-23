@@ -16,7 +16,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
 {% include bib_search.liquid %} 
 
 <div style="padding-top: 50px;">
-  <h3 class="my-heading">Selected Publications (Past Three Years)</h3>
+  <h3 class="my-heading">Recent Selected Publications </h3>
 </div>
 
 <div class="publications">

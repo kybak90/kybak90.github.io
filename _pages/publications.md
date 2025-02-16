@@ -28,7 +28,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Recently Submitted Papers (Under Review & Revision)</h3>
-  <p> <span class="spn1">Last updated: December 29, 2024. </span> </p>
+  <p> <span class="spn1">Last updated: February 16, 2025. </span> </p>
 </div>
 
 <br>
@@ -122,8 +122,7 @@ This page highlights <span class="spn1">selected publications (focused on recent
   <div class="col-sm-10">
     <!-- Title -->
     <div class="title">Efficient curve fitting with penalized B-splines:
-methods and applications in oceanography and
-ecology</div>
+methods and applications in oceanography and ecology</div>
     <!-- Author -->
     <div class="author">
     <em>Kwan-Young Bak</em>, Dong-Young Lee, Ju-Seong Lee, Jae-Hwan Jhong
@@ -161,18 +160,6 @@ ecology</div>
 
 <br>
 
-<!--
-<div class="row">
-  <div class="col-sm-10">
-    <div class="title">ALTBI: constructing improved outlier detection models via optimization of inlier-memorization effect</div>
-    <div class="author">
-    Seoyoung Cho, Jaesung Hwang, <em>Kwan-Young Bak</em>, Dongha Kim
-    </div>
-  </div>
-</div>
-<br>
--->
-
 
 <div class="row">
   <!-- Entry bib key -->
@@ -186,47 +173,6 @@ ecology</div>
   </div>
 </div>
 
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
-    <div class="title">Nonparametric multi-task regression under group sparsity and low-rank structures</div>
-    <!-- Author -->
-    <div class="author">
-    Donghwi Nam, Ja-Yong Koo, <em>Kwan-Young Bak</em>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
-    <div class="title">Dimensionality reduction in nultivariate nonparametric regression via nuclear norm penalization</div>
-    <!-- Author -->
-    <div class="author">
-    Donghwi Nam, Ja-Yong Koo, <em>Kwan-Young Bak</em>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
-    <div class="title">Multi-task nonparametric regression under joint sparsity</div>
-    <!-- Author -->
-    <div class="author">
-    Jae-Hwan Jhong, Gyeongmin Kim, <em>Kwan-Young Bak</em>
-    </div>
-  </div>
-</div>
 
 </li>
 </ol>

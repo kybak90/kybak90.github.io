@@ -67,7 +67,7 @@
   <li>
     <span class="spn5">Publications</span>
     <p class="my-enumerate">
-      - spheresmooth: a penalized piecewie geodeisc curve fitting on a sphere (under review)
+      - spheresmooth: a penalized piecewie geodeisc curve fitting on a sphere (published)
     </p>
   </li>
 </ul>

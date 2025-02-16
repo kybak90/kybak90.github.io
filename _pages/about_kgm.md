@@ -67,7 +67,10 @@
   <li>
     <span class="spn5">Publications</span>
     <p class="my-enumerate">
-      - Multi-task nonparametric regression under joint sparsity (under review)
+      - Multi-task nonparametric regression under joint sparsity (published)
+    </p>
+    <p class="my-enumerate">
+    - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (in preparation)
     </p>
   </li>
 </ul>

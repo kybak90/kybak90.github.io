@@ -95,32 +95,6 @@ This page highlights <span class="spn1">selected publications (focused on recent
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Calibrating a simulated exposure distribution</div>
-    <!-- Author -->
-    <div class="author">
-    Jiwoong Yu, Xueyan Zheng, <em>Kwan-Young Bak</em>, and
-    <span class="more-authors" title="click to view 2 more authors" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '2 more authors' ? 'Kiyoung Lee, Woojoo Lee' : '2 more authors';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">2 more authors</span>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Efficient curve fitting with penalized B-splines:
 methods and applications in oceanography and ecology</div>
     <!-- Author -->

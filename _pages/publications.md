@@ -67,20 +67,6 @@ This page highlights <span class="spn1">selected publications (focused on recent
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Linear covariance selelction model via &#8467;<sub>1</sub> penalization</div>
-    <!-- Author -->
-    <div class="author">
-    <em>Kwan-Young Bak</em>, Seongoh Park
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Minimax optimality of kernel ridge regression when kernel eigenvalues decay polynomially or exponentially</div>
     <!-- Author -->
     <div class="author">

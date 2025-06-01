@@ -138,6 +138,13 @@
       "endDate": "2022-02-28"
     },
     {
+      "name": "Convergence rates of kernel covariate shift in high dimensions",
+      "summary": "Sungshin Women's University",
+      "highlights": ["Covariate shift", "Curse of dimensionality"],
+      "startDate": "2025-03-01",
+      "endDate": "2026-02-28"
+    },
+    {
       "name": "Establishment of optimal convergence rates for multivariate regression function estimation in reproducing kernel Hilbert spaces",
       "summary": "Sungshin Women's University",
       "highlights": ["Reproducing kernel Hilbert space", "Optimal convergence rates"],

@@ -70,7 +70,10 @@
       - Multi-task nonparametric regression under joint sparsity (published)
     </p>
     <p class="my-enumerate">
-    - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (in preparation)
+    - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (under review)
+    </p>
+    <p class="my-enumerate">
+    - R programming with workflow design (in preparation)
     </p>
   </li>
 </ul>

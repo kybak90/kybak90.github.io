@@ -66,10 +66,10 @@
   <li>
     <span class="spn5">Publications</span>
     <p class="my-enumerate">
-      - Covariance estimation based on linear selection model via SCAD penalization (in preparation)
+      - Covariance estimation based on linear selection model via SCAD penalization (under review)
     </p>
     <p class="my-enumerate">
-    - A study on risk perception in South Korea regarding the discharge of treated radioactive water from Fukushima (in preparation)
+    - A study on risk perception in South Korea regarding the discharge of treated radioactive water from Fukushima (under review)
     </p>
   </li>
 </ul>

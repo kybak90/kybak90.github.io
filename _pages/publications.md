@@ -81,6 +81,32 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
+    <div class="title">On theoretical properties of a group-wise additive regression in reproducing kernel Hilbert space</div>
+    <!-- Author -->
+    <div class="author">
+    Jae-Hwan Jhong, Dong-Young Lee <em>Kwan-Young Bak</em>, and
+    <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Woojoo Lee' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+    </div>
+  </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
     <div class="title">Role of government and information trust in the public perception of environmental risk: a case study of the treated contaminated water discharge in fukushima</div>
     <!-- Author -->
     <div class="author">
@@ -111,21 +137,6 @@ This page highlights <span class="spn1">selected publications</span> and <span c
     <!-- Author -->
     <div class="author">
     <em>Kwan-Young Bak</em>, Woojoo Lee
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
-    <div class="title">Efficient curve fitting with penalized B-splines:
-methods and applications in oceanography and ecology</div>
-    <!-- Author -->
-    <div class="author">
-    <em>Kwan-Young Bak</em>, Dong-Young Lee, Ju-Seong Lee, Jae-Hwan Jhong
     </div>
   </div>
 </div>

@@ -62,7 +62,16 @@
     <p class="my-enumerate">
     <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Covariance Modelling
     </p>
-  </li>
+
+<div style="height: 20px;"></div>
+
+    <span class="spn5">First Job</span>
+    <p class="my-enumerate">
+      <i class="fa-solid fa-briefcase" style="font-size:0.7rem"></i> Research Assistant, Marketing Research Division, Gallup Korea
+    </p>
+
+</li>
+
   <li>
     <span class="spn5">Publications</span>
     <p class="my-enumerate">
@@ -70,6 +79,9 @@
     </p>
     <p class="my-enumerate">
     - A study on risk perception in South Korea regarding the discharge of treated radioactive water from Fukushima (under review)
+    </p>
+    <p class="my-enumerate">
+      - Establishing a panel dataset for the survey on the effects of minimum wage implementation (published)
     </p>
   </li>
 </ul>

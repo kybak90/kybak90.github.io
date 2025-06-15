@@ -27,7 +27,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 
 <div style="padding-top: 100px;">
-  <h3 class="my-heading">Recently Submitted Papers (Under Review & Revision)</h3>
+  <h3 class="my-heading">Recently Submitted Works</h3>
   <p> <span class="spn1">Last updated: June 1, 2025. </span> </p>
 </div>
 

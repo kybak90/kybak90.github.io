@@ -169,20 +169,6 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   </div>
 </div>
 
-<br>
-
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
-    <div class="title">Low-dimension adaptive neural network regression with directional change detection via nuclear norm penalization</div>
-    <!-- Author -->
-    <div class="author">
-    Yongku Kim, Jae-Hwan Jhong, Ja-Yong Koo, <em>Kwan-Young Bak</em>
-    </div>
-  </div>
-</div>
 
 
 </li>

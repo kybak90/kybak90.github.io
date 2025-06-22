@@ -75,7 +75,7 @@
   <li>
     <span class="spn5">Publications</span>
     <p class="my-enumerate">
-      - Covariance estimation based on linear selection model via SCAD penalization (under review)
+      - Analysis of US airport network and KOSPI volatility based on covariance regression modeling method (published)
     </p>
     <p class="my-enumerate">
     - A study on risk perception in South Korea regarding the discharge of treated radioactive water from Fukushima (under review)

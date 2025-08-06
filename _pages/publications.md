@@ -133,20 +133,6 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Minimax optimality of kernel ridge regression when kernel eigenvalues decay polynomially or exponentially</div>
-    <!-- Author -->
-    <div class="author">
-    <em>Kwan-Young Bak</em>, Woojoo Lee
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Adaptive log-wavelet density estimation with resolution identification</div>
     <!-- Author -->
     <div class="author">

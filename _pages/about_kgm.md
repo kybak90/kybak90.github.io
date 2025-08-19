@@ -73,7 +73,7 @@
     - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (under review)
     </p>
     <p class="my-enumerate">
-    - R programming with workflow design (in preparation)
+    - R programming with workflow design (published)
     </p>
   </li>
 </ul>

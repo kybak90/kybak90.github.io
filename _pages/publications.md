@@ -41,20 +41,6 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title"> R Programming with Workflow Design (Book)</div>
-    <!-- Author -->
-    <div class="author">
-    <em>Kwan-Young Bak</em>, and Gyeongmin Kim
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Political party preference, accountability, and risk perception: Crowd crush in South Korea</div>
     <!-- Author -->
     <div class="author">

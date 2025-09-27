@@ -66,6 +66,11 @@
   </li>
   <li>
     <span class="spn5">Publications</span>
+    
+    <p class="my-enumerate">
+    - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
+    </p>
+
   </li>
 </ul>
 

@@ -69,5 +69,11 @@
     <p class="my-enumerate">
       - spheresmooth: a penalized piecewie geodeisc curve fitting on a sphere (published)
     </p>
+    <p class="my-enumerate">
+    - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
+    </p>
+    <p class="my-enumerate">
+    - spheresmooth: Piecewise Geodesic Smoothing for Spherical Data [Software] (published)
+    </p>
   </li>
 </ul>

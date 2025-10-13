@@ -58,7 +58,7 @@
     <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Software Development
     </p>
     <p class="my-enumerate">
-    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Geometric Statistics
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Data Engineering
     </p>
     <p class="my-enumerate">
     <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Penalization Method

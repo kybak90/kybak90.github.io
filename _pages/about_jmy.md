@@ -68,6 +68,9 @@
     <span class="spn5">Publications</span>
     
     <p class="my-enumerate">
+    - Risk of peripheral artery disease following ankylosing spondylitis, 2012-2023: a nationwide cohort study in South Korea (under review)
+    </p>    
+    <p class="my-enumerate">
     - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
     </p>
 

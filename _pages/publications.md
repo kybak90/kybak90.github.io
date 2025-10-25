@@ -27,8 +27,8 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 
 <div style="padding-top: 100px;">
-  <h3 class="my-heading">Recently Submitted Works</h3>
-  <p> <span class="spn1">Last updated: June 1, 2025. </span> </p>
+  <h3 class="my-heading">Work in Progress</h3>
+  <p> <span class="spn1">Last updated: October 25, 2025. </span> </p>
 </div>
 
 <br>
@@ -119,13 +119,26 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Adaptive log-wavelet density estimation with resolution identification</div>
+    <div class="title">FastKRR: an R package for efficient kernel ridge regression with RcppArmadillo</div>
     <!-- Author -->
     <div class="author">
-    <em>Kwan-Young Bak</em>, Eun-Ji Lee, Jae-Hwan Jhong
+    Gyeongmin Kim, Seyoung Lee, Miyoung Jang, Dongha Kim, and
+    <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Kwan-Young Bak' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
     </div>
-  </div>
+  </div> 
 </div>
+
 
 <br>
 
@@ -141,7 +154,88 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   </div>
 </div>
 
+<br>
 
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Risk of peripheral artery disease following ankylosing spondylitis, 2012-2023: a nationwide cohort study in South Korea</div>
+    <!-- Author -->
+    <div class="author">
+    Seung Won Lee, Miyoung Jang, <em>Kwan-Young Bak</em>, Hohyun Jung, and
+    <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Youngoh Bae' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+    </div>
+  </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">tvbspline: function estimation based on total-variation penalized spline using R</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em>, Jae-Hwan Jhong
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Estimation and model selection for conditional average treatment
+effects using inexactly matched data</div>
+    <!-- Author -->
+    <div class="author">
+    Jiwoong Yu, <em>Kwan-Young Bak</em>, Woojoo Lee
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Kernelized entropy balancing: distributional matching in reproducing kernel Hilbert spaces for causal weights</div>
+    <!-- Author -->
+    <div class="author">
+    Jae-Hwan Jhong, <em>Kwan-Young Bak</em>, Woojoo Lee
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Dosimetry in radioembolization</div>
+    <!-- Author -->
+    <div class="author">
+    Gyeong min, <em>Kwan-Young Bak</em>, Jin Woo Choi
+    </div>
+  </div>
+</div>
 
 </li>
 </ol>

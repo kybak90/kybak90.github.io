@@ -232,7 +232,7 @@ effects using inexactly matched data</div>
     <div class="title">Dosimetry in radioembolization</div>
     <!-- Author -->
     <div class="author">
-    Gyeong min, <em>Kwan-Young Bak</em>, Jin Woo Choi
+    Gyeongmin Kim, <em>Kwan-Young Bak</em>, Jin Woo Choi
     </div>
   </div>
 </div>

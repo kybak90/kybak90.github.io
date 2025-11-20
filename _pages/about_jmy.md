@@ -71,7 +71,7 @@
     - Risk of peripheral artery disease following ankylosing spondylitis, 2012-2023: a nationwide cohort study in South Korea (under review)
     </p>    
     <p class="my-enumerate">
-    - Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023
+    - Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023 (under review)
     </p>
     <p class="my-enumerate">
     - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)

@@ -34,11 +34,6 @@ profiles:
   - group_name: Undergraduate Internship
     members:
       - align: left
-        content: about_kjh.md
-      - align: left
-        content: about_sjy.md
-      - align: left
-        content: about_mgy.md
-      - align: left
-        content: about_psy.md      
+        content: about_intern.md  
 ---
+

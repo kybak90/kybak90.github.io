@@ -93,7 +93,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Role of government and information trust in the public perception of environmental risk: a case study of the treated contaminated water discharge in fukushima</div>
+    <div class="title">Role of government and information trust in the public perception of environmental risk: a case study of the treated contaminated water discharge in Fukushima</div>
     <!-- Author -->
     <div class="author">
     Yookyung Eoh, Jong-min Choi, Jinju Kim, and 
@@ -164,7 +164,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
     <!-- Author -->
     <div class="author">
     Seung Won Lee, Miyoung Jang, <em>Kwan-Young Bak</em>, Hohyun Jung, and
-    <span class="more-authors" title="click to view 3 more authors" onclick="
+    <span class="more-authors" title="click to view 1 more author" onclick="
               var element = $(this);
               element.attr('title', '');
               var more_authors_text = element.text() == '1 more author' ? 'Youngoh Bae' : '1 more author';
@@ -176,6 +176,32 @@ This page highlights <span class="spn1">selected publications</span> and <span c
                 }
             }, '10');
           ">1 more author</span>
+    </div>
+  </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023</div>
+    <!-- Author -->
+    <div class="author">
+    Seung Won Lee, Miyoung Jang, Wonsuk Shin, Jin Hoon Park, and 
+    <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Kwan-Young Bak, Hohyun Jung, Youngoh Bae' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
     </div>
   </div> 
 </div>

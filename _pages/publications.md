@@ -255,12 +255,24 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Dosimetry in radioembolization</div>
+    <div class="title">Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023</div>
     <!-- Author -->
     <div class="author">
-    Gyeongmin Kim, <em>Kwan-Young Bak</em>, Jin Woo Choi
+    Jin Woo Choi, Gyeongmin Kim, Anshul Chabra, Minseok Suh, and
+    <span class="more-authors" title="click to view 2 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '2 more authors' ? 'Juil Park, Kwan-Young Bak' : '2 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">2 more authors</span>
     </div>
-  </div>
+  </div> 
 </div>
 
 </li>

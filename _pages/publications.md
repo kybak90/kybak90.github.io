@@ -212,6 +212,32 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
+    <div class="title">Risk of heart failure after spinal cord injury: a nationwide cohort study in South Korea</div>
+    <!-- Author -->
+    <div class="author">
+    Hohyun Jung, Youngoh Bae, Miyoung Jang, Seung Won Lee, and 
+    <span class="more-authors" title="click to view 2 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '2 more authors' ? 'Kwan-Young Bak, Jin Hoon Park' : '2 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">2 more authors</span>
+    </div>
+  </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
     <div class="title">tvbspline: function estimation based on total-variation penalized spline using R</div>
     <!-- Author -->
     <div class="author">
@@ -255,7 +281,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023</div>
+    <div class="title">Activity apportioning models following multi-compartment dosimetry for radioembolization of liver tumors supplied by multiple arteries</div>
     <!-- Author -->
     <div class="author">
     Jin Woo Choi, Gyeongmin Kim, Anshul Chabra, Minseok Suh, and

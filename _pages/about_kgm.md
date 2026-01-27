@@ -70,6 +70,9 @@
       - Multi-task nonparametric regression under joint sparsity (published)
     </p>
     <p class="my-enumerate">
+    - Activity apportioning models following multi-compartment dosimetry for radioembolization of liver tumors supplied by multiple arteries (under review)
+    </p>
+    <p class="my-enumerate">
     - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (under review)
     </p>
     <p class="my-enumerate">
@@ -77,6 +80,9 @@
     </p>
     <p class="my-enumerate">
     - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
+    </p>
+    <p class="my-enumerate">
+    - FastKRR: an R package for efficient kernel ridge regression with RcppArmadillo (under review)
     </p>
   </li>
 </ul>

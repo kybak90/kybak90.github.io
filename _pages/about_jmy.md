@@ -55,13 +55,13 @@
   <li>
     <span class="spn5">Research Interests</span>
     <p class="my-enumerate">
-    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Economic Statistics
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Biostatistics
+    </p>
+    <p class="my-enumerate">
+    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Clinical Trials
     </p>
     <p class="my-enumerate">
     <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Survey Sampling
-    </p>
-    <p class="my-enumerate">
-    <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Minimax Theory
     </p>
   </li>
   <li>
@@ -74,8 +74,21 @@
     - Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023 (under review)
     </p>
     <p class="my-enumerate">
+    - Risk of heart failure after spinal cord injury: a nationwide cohort study in South Korea (under review)
+    </p>
+    <p class="my-enumerate">
+    - Association Between Parkinson’s Disease and Subsequent Depression Risk: A Nationwide Cohort Study (under review)
+    </p>
+    <p class="my-enumerate">
     - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
     </p>
+    <p class="my-enumerate">
+    - FastKRR: an R package for efficient kernel ridge regression with RcppArmadillo (under review)
+    </p>
+
+    
+
+
 
   </li>
 </ul>

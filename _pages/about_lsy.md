@@ -73,7 +73,13 @@
     - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
     </p>
     <p class="my-enumerate">
+      - spheresmooth (Python): Geometry-aware Spline Smoothing and Geodesic Modeling for Spherical Data in Python [Software] (published)
+    </p>
+    <p class="my-enumerate">
     - spheresmooth: Piecewise Geodesic Smoothing for Spherical Data [Software] (published)
+    </p>
+    <p class="my-enumerate">
+    - Adaptive smoothing of spherical trajectories via penalized piecewise geodesic curves: a Python software (under review)
     </p>
   </li>
 </ul>

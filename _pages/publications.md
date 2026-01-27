@@ -41,32 +41,6 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Political party preference, accountability, and risk perception: Crowd crush in South Korea</div>
-    <!-- Author -->
-    <div class="author">
-    Yookyung Eoh, <em>Kwan-Young Bak</em>, Seoyeon Kim, and
-    <span class="more-authors" title="click to view 3 more authors" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '3 more authors' ? 'Deok Hyun Jang, Hoon Lee, Won Mo Jang' : '3 more authors';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">3 more authors</span>
-    </div>
-  </div> 
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">On theoretical properties of a group-wise additive regression in reproducing kernel Hilbert space</div>
     <!-- Author -->
     <div class="author">
@@ -146,10 +120,10 @@ This page highlights <span class="spn1">selected publications</span> and <span c
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Super-precision change point detection using weighted total variation penalty</div>
+    <div class="title">Adaptive smoothing of spherical trajectories via penalized piecewise geodesic curves: a Python software</div>
     <!-- Author -->
     <div class="author">
-    <em>Kwan-Young Bak</em>, Eun-Ji Lee, Jae-Hwan Jhong
+    Seyoung Lee, <em>Kwan-Young Bak</em>
     </div>
   </div>
 </div>
@@ -228,6 +202,32 @@ This page highlights <span class="spn1">selected publications</span> and <span c
                 }
             }, '10');
           ">2 more authors</span>
+    </div>
+  </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Association between Parkinson’s disease and subsequent depression risk: a nationwide cohort study</div>
+    <!-- Author -->
+    <div class="author">
+    Youngoh Bae, Miyoung Jang, Kwan-Young Bak, Sang Ryong Jeon, and 
+    <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Wonsuk Shin, Seung Won Lee, Hohyun Jung' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
     </div>
   </div> 
 </div>

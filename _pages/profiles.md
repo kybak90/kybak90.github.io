@@ -10,10 +10,6 @@ profiles:
   - group_name: Master Course
     members:
       - align: left
-        image: prof-kjj.jpg
-        content: about_kjj.md
-        image_circular: true
-      - align: left
         image: prof-kgm.jpg
         content: about_kgm.md
         image_circular: true
@@ -30,6 +26,10 @@ profiles:
       - align: left
         image: prof-ksy.jpg
         content: about_ksy.md
+        image_circular: true
+      - align: left
+        image: prof-kjj.jpg
+        content: about_kjj.md
         image_circular: true
   - group_name: Undergraduate Internship
     members:

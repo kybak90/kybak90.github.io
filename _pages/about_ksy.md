@@ -87,7 +87,7 @@
       - Establishing a panel dataset for the survey on the effects of minimum wage implementation (published)
     </p>
     <p class="my-enumerate">
-      - Political party preference, accountability, and risk perception: Crowd crush in South Korea (under review)
+      - Political party preference, accountability, and risk perception: Crowd crush in South Korea (published)
     </p>
   </li>
 </ul>

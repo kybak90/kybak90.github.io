@@ -28,7 +28,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Work in Progress</h3>
-  <p> <span class="spn1">Last updated: February 14, 2026. </span> </p>
+  <p> <span class="spn1">Last updated: March 28, 2026. </span> </p>
 </div>
 
 <br>
@@ -44,7 +44,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
     <div class="title">On theoretical properties of a group-wise additive regression in reproducing kernel Hilbert space</div>
     <!-- Author -->
     <div class="author">
-    Jae-Hwan Jhong, Dong-Young Lee <em>Kwan-Young Bak</em>, and
+    Jae-Hwan Jhong, Dong-Young Lee, <em>Kwan-Young Bak</em>, and
     <span class="more-authors" title="click to view 1 more author" onclick="
               var element = $(this);
               element.attr('title', '');
@@ -142,6 +142,20 @@ effects using inexactly matched data</div>
     <!-- Author -->
     <div class="author">
     Eun-Ji Lee, Ja-Yong Koo, <em>Kwan-Young Bak</em>, Jae-Hwan Jhong
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Change point detection in unevenly spaced time series via generalized adaptive penalized regression splines</div>
+    <!-- Author -->
+    <div class="author">
+    Dong-Young Lee, <em>Kwan-Young Bak</em>, Jae-Hwan Jhong
     </div>
   </div>
 </div>
@@ -287,11 +301,37 @@ effects using inexactly matched data</div>
     <div class="title">Association between Parkinson’s disease and subsequent depression risk: a nationwide cohort study</div>
     <!-- Author -->
     <div class="author">
-    Youngoh Bae, Miyoung Jang, Kwan-Young Bak, Sang Ryong Jeon, and 
+    Youngoh Bae, Miyoung Jang, <em>Kwan-Young Bak</em>, Sang Ryong Jeon, and 
     <span class="more-authors" title="click to view 3 more authors" onclick="
               var element = $(this);
               element.attr('title', '');
               var more_authors_text = element.text() == '3 more authors' ? 'Wonsuk Shin, Seung Won Lee, Hohyun Jung' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
+    </div>
+  </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Association between irritable bowel syndrome and Guillain–Barré syndrome-related immune-mediated peripheral neuropathies: a nationwide cohort study</div>
+    <!-- Author -->
+    <div class="author">
+    Youngoh Bae, Miyoung Jang, <em>Kwan-Young Bak</em>, Jin Hoon Park, and 
+    <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Won-Suk Shin, Sang Ryong Jeon, Hohyun Jung' : '3 more authors';
               var cursorPosition = 0;
               var textAdder = setInterval(function(){
                 element.html(more_authors_text.substring(0, cursorPosition + 1));

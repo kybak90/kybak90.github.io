@@ -79,7 +79,7 @@
     - spheresmooth: Piecewise Geodesic Smoothing for Spherical Data [Software] (published)
     </p>
     <p class="my-enumerate">
-    - Adaptive smoothing of spherical trajectories via penalized piecewise geodesic curves: a Python software (under review)
+    - Adaptive smoothing of spherical trajectories via penalized piecewise geodesic curves: a Python software (published)
     </p>
   </li>
 </ul>

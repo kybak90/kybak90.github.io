@@ -80,6 +80,9 @@
     - Association Between Parkinson’s Disease and Subsequent Depression Risk: A Nationwide Cohort Study (under review)
     </p>
     <p class="my-enumerate">
+    - Association between irritable bowel syndrome and Guillain–Barré syndrome-related immune-mediated peripheral neuropathies: a nationwide cohort study (under review)
+    </p>
+    <p class="my-enumerate">
     - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
     </p>
     <p class="my-enumerate">

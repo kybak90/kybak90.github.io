@@ -180,20 +180,6 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Adaptive smoothing of spherical trajectories via penalized piecewise geodesic curves: a Python software</div>
-    <!-- Author -->
-    <div class="author">
-    Seyoung Lee, <em>Kwan-Young Bak</em>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Role of government and information trust in the public perception of environmental risk: a case study of the treated contaminated water discharge in Fukushima</div>
     <!-- Author -->
     <div class="author">

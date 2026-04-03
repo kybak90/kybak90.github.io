@@ -110,15 +110,15 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Actual 10-year survival of hepatocellular carcinoma after cone-beam CT guided superselective transarterial chemoembolization with a comprehensive analysis of staging systems
+    <div class="title">Actual 10-year survival of hepatocellular carcinoma after cone-beam computed tomography-guided superselective transarterial chemoembolization with a comprehensive analysis of staging systems
     </div>
     <!-- Author -->
     <div class="author">
-    Lyo Min Kwon, Jin Wook Chung, Chang Jin Yoon, Hyo-Cheol Kim, and
-    <span class="more-authors" title="click to view 3 more authors" onclick="
+    Lyo Min Kwon, Kwan-Young Bak, Chang Jin Yoon, Yong Ho Yin, and
+    <span class="more-authors" title="click to view 8 more authors" onclick="
               var element = $(this);
               element.attr('title', '');
-              var more_authors_text = element.text() == '3 more authors' ? 'Jin Woo Choi, Kwan-Young Bak, Taehwa Choi' : '3 more authors';
+              var more_authors_text = element.text() == '8 more authors' ? 'Mijin Ahn, Taehwa Choi, Hyo-Cheol Kim, Jin Woo Choi, Su Jong Yu, Yoon Jun Kim, Jung-Hwan Yoon, Jin Wook Chung' : '8 more authors';
               var cursorPosition = 0;
               var textAdder = setInterval(function(){
                 element.html(more_authors_text.substring(0, cursorPosition + 1));
@@ -126,7 +126,7 @@ effects using inexactly matched data</div>
                   clearInterval(textAdder);
                 }
             }, '10');
-          ">3 more authors</span>
+          ">8 more authors</span>
     </div>
   </div> 
 </div>

@@ -362,15 +362,13 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">tvbspline: function estimation based on total-variation penalized spline using R</div>
+    <div class="title">TVspline: function estimation based on total-variation penalized spline using R</div>
     <!-- Author -->
     <div class="author">
     <em>Kwan-Young Bak</em>, Jae-Hwan Jhong
     </div>
   </div>
 </div>
-
-
 
 
 </li>

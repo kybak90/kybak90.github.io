@@ -365,7 +365,7 @@ effects using inexactly matched data</div>
     <div class="title">TVspline: function estimation based on total-variation penalized spline using R</div>
     <!-- Author -->
     <div class="author">
-    <em>Kwan-Young Bak</em>, Jae-Hwan Jhong
+    <em>Kwan-Young Bak</em>, Ju-Seong Lee, Jae-Hwan Jhong
     </div>
   </div>
 </div>

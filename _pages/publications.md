@@ -324,14 +324,14 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Association between Parkinson’s disease and subsequent depression risk: a nationwide cohort study</div>
+    <div class="title">Risk of depression following Parkinson’s disease diagnosis: a nationwide retrospective cohort study in South Korea</div>
     <!-- Author -->
     <div class="author">
     Youngoh Bae, Miyoung Jang, <em>Kwan-Young Bak</em>, Sang Ryong Jeon, and 
-    <span class="more-authors" title="click to view 3 more authors" onclick="
+    <span class="more-authors" title="click to view 4 more authors" onclick="
               var element = $(this);
               element.attr('title', '');
-              var more_authors_text = element.text() == '3 more authors' ? 'Wonsuk Shin, Seung Won Lee, Hohyun Jung' : '3 more authors';
+              var more_authors_text = element.text() == '4 more authors' ? 'Jin Hoon Park, Wonsuk Shin, Seung Won Lee, Hohyun Jung' : '4 more authors';
               var cursorPosition = 0;
               var textAdder = setInterval(function(){
                 element.html(more_authors_text.substring(0, cursorPosition + 1));
@@ -339,7 +339,7 @@ effects using inexactly matched data</div>
                   clearInterval(textAdder);
                 }
             }, '10');
-          ">3 more authors</span>
+          ">4 more authors</span>
     </div>
   </div> 
 </div>

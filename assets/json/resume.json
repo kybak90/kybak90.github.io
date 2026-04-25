@@ -138,6 +138,13 @@
       "endDate": "2022-02-28"
     },
     {
+      "name": "On the Optimality of Additive Kernel Learning in Structured High-Dimensional Regression",
+      "summary": "Sungshin Women's University",
+      "highlights": ["Additive kernel machine", "Optimal convergence rates"],
+      "startDate": "2026-03-01",
+      "endDate": "2027-02-28"
+    },
+    {
       "name": "Convergence rates of kernel covariate shift in high dimensions",
       "summary": "Sungshin Women's University",
       "highlights": ["Covariate shift", "Curse of dimensionality"],

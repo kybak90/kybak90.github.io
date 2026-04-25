@@ -180,6 +180,32 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
+    <div class="title">Political party preference, accountability, and risk perception: Crowd crush in South Korea</div>
+    <!-- Author -->
+    <div class="author">
+    Yookyung Eoh, <em>Kwan-Young Bak</em>, Seoyeon Kim, and
+    <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Deok Hyun Jang, Hoon Lee, Won Mo Jang' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
+    </div>
+  </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
     <div class="title">Role of government and information trust in the public perception of environmental risk: a case study of the treated contaminated water discharge in Fukushima</div>
     <!-- Author -->
     <div class="author">
@@ -198,6 +224,20 @@ effects using inexactly matched data</div>
           ">3 more authors</span>
     </div>
   </div> 
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Mortality risk of emergency care-sensitive conditions during the 2024 junior doctors’ industrial action</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em> et al.
+    </div>
+  </div>
 </div>
 
 <br>

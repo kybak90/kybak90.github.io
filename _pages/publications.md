@@ -350,32 +350,6 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Association between irritable bowel syndrome and Guillain–Barré syndrome-related immune-mediated peripheral neuropathies: a nationwide cohort study</div>
-    <!-- Author -->
-    <div class="author">
-    Youngoh Bae, Miyoung Jang, <em>Kwan-Young Bak</em>, Jin Hoon Park, and 
-    <span class="more-authors" title="click to view 3 more authors" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '3 more authors' ? 'Won-Suk Shin, Sang Ryong Jeon, Hohyun Jung' : '3 more authors';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">3 more authors</span>
-    </div>
-  </div> 
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">FastKRR: an R package for efficient kernel ridge regression with RcppArmadillo</div>
     <!-- Author -->
     <div class="author">

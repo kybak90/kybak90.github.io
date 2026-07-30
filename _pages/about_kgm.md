@@ -63,6 +63,13 @@
     <p class="my-enumerate">
     <i class="fa-solid fa-hashtag" style="font-size:0.7rem"></i> Convex Optimization
     </p>
+
+    <div style="height: 20px;"></div>
+
+    <span class="spn5">First Job</span>
+    <p class="my-enumerate">
+      <i class="fa-solid fa-briefcase" style="font-size:0.7rem"></i> Ph.D. Student, Graduate School of Public Health,  Seoul National University
+    </p>
   </li>
   <li>
     <span class="spn5">Publications</span>
@@ -73,7 +80,7 @@
     - Activity apportioning models following multi-compartment dosimetry for radioembolization of liver tumors supplied by multiple arteries (under review)
     </p>
     <p class="my-enumerate">
-    - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (under review)
+    - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (published)
     </p>
     <p class="my-enumerate">
     - R programming with workflow design [Book] (published)

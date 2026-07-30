@@ -78,7 +78,7 @@
       - Analysis of US airport network and KOSPI volatility based on covariance regression modeling method (published)
     </p>
     <p class="my-enumerate">
-    - A study on risk perception in South Korea regarding the discharge of treated radioactive water from Fukushima (under review)
+    - Role of government and information trust in public perception of environmental risk: a case study of treated contaminated water discharge in Fukushima (published)
     </p>
     <p class="my-enumerate">
       - Establishing a panel dataset for the survey on the effects of minimum wage implementation (published)

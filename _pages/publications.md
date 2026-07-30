@@ -28,7 +28,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Work in Progress</h3>
-  <p> <span class="spn1">Last updated: March 28, 2026. </span> </p>
+  <p> <span class="spn1">Last updated: July 30, 2026. </span> </p>
 </div>
 
 <br>
@@ -110,7 +110,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Actual 10-year survival of hepatocellular carcinoma after cone-beam computed tomography-guided superselective transarterial chemoembolization with a comprehensive analysis of staging systems
+    <div class="title">Real-world 10-year survival and staging-system performance after initial Lipiodol-based conventional TACE for hepatocellular carcinoma in the era of cone-beam CT and advanced microcatheter technology
     </div>
     <!-- Author -->
     <div class="author">
@@ -180,24 +180,12 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Political party preference, accountability, and risk perception: Crowd crush in South Korea</div>
+    <div class="title">Fusion-penalized kernel regression with latent subgroup identification</div>
     <!-- Author -->
     <div class="author">
-    Yookyung Eoh, <em>Kwan-Young Bak</em>, Seoyeon Kim, and
-    <span class="more-authors" title="click to view 3 more authors" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '3 more authors' ? 'Deok Hyun Jang, Hoon Lee, Won Mo Jang' : '3 more authors';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">3 more authors</span>
+    Gyeongmin Kim, Miyoung Jang, Taehwa Choi, <em>Kwan-Young Bak</em>
     </div>
-  </div> 
+  </div>
 </div>
 
 <br>
@@ -206,14 +194,28 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Role of government and information trust in the public perception of environmental risk: a case study of the treated contaminated water discharge in Fukushima</div>
+    <div class="title">Boundary-wide kernel ridge regression for regression discontinuity designs with kinked assignment boundaries</div>
     <!-- Author -->
     <div class="author">
-    Yookyung Eoh, Jong-min Choi, Jinju Kim, and 
+    <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Political party preference, accountability, and risk perception: Crowd crush in South Korea</div>
+    <!-- Author -->
+    <div class="author">
+    Yookyung Eoh, <em>Kwan-Young Bak</em>, Seoyeon Kim, and
     <span class="more-authors" title="click to view 3 more authors" onclick="
               var element = $(this);
               element.attr('title', '');
-              var more_authors_text = element.text() == '3 more authors' ?  'Deok Hyun Jang, Kwan-Young Bak, Won Mo Jang' : '3 more authors';
+              var more_authors_text = element.text() == '3 more authors' ? 'Deok Hyun Jang, Hoon Lee, Won Mo Jang' : '3 more authors';
               var cursorPosition = 0;
               var textAdder = setInterval(function(){
                 element.html(more_authors_text.substring(0, cursorPosition + 1));

@@ -169,7 +169,7 @@ effects using inexactly matched data</div>
     <div class="title">Kernelized entropy balancing: distributional matching in reproducing kernel Hilbert spaces for causal weights</div>
     <!-- Author -->
     <div class="author">
-    Jae-Hwan Jhong, <em>Kwan-Young Bak</em>, Woojoo Lee
+    <em>Kwan-Young Bak</em>, Gyeongmin Kim, Jae-Hwan Jhong, Woojoo Lee
     </div>
   </div>
 </div>
@@ -197,7 +197,7 @@ effects using inexactly matched data</div>
     <div class="title">Boundary-wide kernel ridge regression for regression discontinuity designs with kinked assignment boundaries</div>
     <!-- Author -->
     <div class="author">
-    <em>Kwan-Young Bak</em>
+    <em>Kwan-Young Bak</em>, Gyeongmin Kim, Woojoo Lee
     </div>
   </div>
 </div>

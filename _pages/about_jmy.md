@@ -74,7 +74,7 @@
     - Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023 (under review)
     </p>
     <p class="my-enumerate">
-    - Risk of heart failure after spinal cord injury: a nationwide cohort study in South Korea (under review)
+    - Risk of heart failure after spinal cord injury: a nationwide cohort study in South Korea (published)
     </p>
     <p class="my-enumerate">
     - Association Between Parkinson’s Disease and Subsequent Depression Risk: A Nationwide Cohort Study (under review)

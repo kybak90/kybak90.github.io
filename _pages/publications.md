@@ -248,32 +248,6 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Risk of peripheral artery disease following ankylosing spondylitis, 2012-2023: a nationwide cohort study in South Korea</div>
-    <!-- Author -->
-    <div class="author">
-    Seung Won Lee, Miyoung Jang, <em>Kwan-Young Bak</em>, Hohyun Jung, and
-    <span class="more-authors" title="click to view 1 more author" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '1 more author' ? 'Youngoh Bae' : '1 more author';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">1 more author</span>
-    </div>
-  </div> 
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023</div>
     <!-- Author -->
     <div class="author">
@@ -290,32 +264,6 @@ effects using inexactly matched data</div>
                 }
             }, '10');
           ">3 more authors</span>
-    </div>
-  </div> 
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
-    <div class="title">Risk of depression following Parkinson’s disease diagnosis: a nationwide retrospective cohort study in South Korea</div>
-    <!-- Author -->
-    <div class="author">
-    Youngoh Bae, Miyoung Jang, <em>Kwan-Young Bak</em>, Sang Ryong Jeon, and 
-    <span class="more-authors" title="click to view 4 more authors" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '4 more authors' ? 'Jin Hoon Park, Wonsuk Shin, Seung Won Lee, Hohyun Jung' : '4 more authors';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">4 more authors</span>
     </div>
   </div> 
 </div>

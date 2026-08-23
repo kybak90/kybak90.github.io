@@ -8,11 +8,7 @@ nav_order: 3
 
 profiles:
   - group_name: Master Course
-    members:
-      - align: left
-        image: prof-kgm.jpg
-        content: about_kgm.md
-        image_circular: true
+    members:      
       - align: left
         image: prof-lsy.jpg
         content: about_lsy.md
@@ -30,6 +26,10 @@ profiles:
       - align: left
         image: prof-kjj.jpg
         content: about_kjj.md
+        image_circular: true
+      - align: left
+        image: prof-kgm.jpg
+        content: about_kgm.md
         image_circular: true
   - group_name: Undergraduate Internship
     members:

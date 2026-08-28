@@ -103,6 +103,13 @@
   ],
   "projects": [
     {
+      "name": "Kernel-based statistical learning methods incorporating structural information in data",
+      "summary": "Ministry of Science and ICT - National Research Foundation of Korea",
+      "highlights": ["Kernel-based statistical learning", "Structure-informed statistical learning"],
+      "startDate": "2026-09-01",
+      "endDate": "2031-08-31"
+    },
+    {
       "name": "Development of a nonparametric spatiotemporal model and optimization methodologies considering the complex structure of environmental exposure factors",
       "summary": "Ministry of Science and ICT - National Research Foundation of Korea",
       "highlights": ["Nonparametric spatiotemporal model", "Environmental exposure data"],
@@ -126,7 +133,7 @@
     {
       "name": "Designing a survey panel to evaluate minimum wage policy effects",
       "summary": "Ministry of Employment and Labor",
-      "highlights": ["Survey Panel Design", "Minimum Wage Policy"],
+      "highlights": ["Survey panel design", "minimum wage policy"],
       "startDate": "2024-09-01",
       "endDate": "2024-12-31"
     },

@@ -28,7 +28,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Work in Progress</h3>
-  <p> <span class="spn1">Last updated: July 30, 2026. </span> </p>
+  <p> <span class="spn1">Last updated: September 18, 2026. </span> </p>
 </div>
 
 <br>
@@ -166,6 +166,34 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
+    <div class="title">Sphere-valid smoothing of animal migration tracks: comparing spline methods on crane GPS data</div>
+    <!-- Author -->
+    <div class="author">
+    Ju-Seong Lee, <em>Kwan-Young Bak</em>, Jae-Hwan Jhong
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">Designing Eigen-based C++ backends for statistical and machine learning software: Python and R interfaces</div>
+    <!-- Author -->
+    <div class="author">
+    Seyoung Lee, <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
     <div class="title">Kernelized entropy balancing: distributional matching in reproducing kernel Hilbert spaces for causal weights</div>
     <!-- Author -->
     <div class="author">
@@ -201,6 +229,21 @@ effects using inexactly matched data</div>
     </div>
   </div>
 </div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
+    <div class="title">The feature space is not always the RKHS: clarifying feature maps and canonical representations in kernel methods</div>
+    <!-- Author -->
+    <div class="author">
+    <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
 
 <br>
 

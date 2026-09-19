@@ -180,7 +180,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Sphere-valid smoothing of animal migration tracks: comparing spline methods on crane GPS data</div>
+    <div class="title">Sphere-valued smoothing of animal migration tracks: comparing spline methods on crane GPS data</div>
     <!-- Author -->
     <div class="author">
     Ju-Seong Lee, <em>Kwan-Young Bak</em>, Jae-Hwan Jhong

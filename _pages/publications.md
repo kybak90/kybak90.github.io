@@ -166,6 +166,20 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
+    <div class="title">Double-penalized hinge loss neural network classification with directional structure identification</div>
+    <!-- Author -->
+    <div class="author">
+    Jiwon Moon, Ja-Yong Koo, <em>Kwan-Young Bak</em>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
     <div class="title">Sphere-valid smoothing of animal migration tracks: comparing spline methods on crane GPS data</div>
     <!-- Author -->
     <div class="author">

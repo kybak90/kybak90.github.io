@@ -250,7 +250,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">The feature space is not always the RKHS: clarifying feature maps and canonical representations in kernel methods</div>
+    <div class="title">A feature space need not be the RKHS of its kernel</div>
     <!-- Author -->
     <div class="author">
     <em>Kwan-Young Bak</em>

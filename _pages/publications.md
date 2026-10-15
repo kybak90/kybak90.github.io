@@ -110,33 +110,6 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Real-world 10-year survival and staging-system performance after initial Lipiodol-based conventional TACE for hepatocellular carcinoma in the era of cone-beam CT and advanced microcatheter technology
-    </div>
-    <!-- Author -->
-    <div class="author">
-    Lyo Min Kwon, Kwan-Young Bak, Chang Jin Yoon, Yong Ho Yin, and
-    <span class="more-authors" title="click to view 8 more authors" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '8 more authors' ? 'Mijin Ahn, Taehwa Choi, Hyo-Cheol Kim, Jin Woo Choi, Su Jong Yu, Yoon Jun Kim, Jung-Hwan Yoon, Jin Wook Chung' : '8 more authors';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">8 more authors</span>
-    </div>
-  </div> 
-</div>
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
     <div class="title">Simultaneous estimation of nonparametric quantile regression with B-splines and norm-based penalties
 effects using inexactly matched data</div>
     <!-- Author -->
@@ -285,19 +258,33 @@ effects using inexactly matched data</div>
   </div> 
 </div>
 
+
 <br>
 
 <div class="row">
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Mortality risk of emergency care-sensitive conditions during the 2024 junior doctors’ industrial action</div>
+    <div class="title">Mortality among patients with emergency care-sensitive conditions during the first year of South Korea’s trainee doctor walkout: a nationwide interrupted time-series study</div>
     <!-- Author -->
     <div class="author">
-    <em>Kwan-Young Bak</em> et al.
+    Hansoo Ko, Seung Yeon Lee, Juhwan Yoo, <em>Kwan-Young Bak</em>, and
+    <span class="more-authors" title="click to view 4 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '4 more authors' ? 'Jinseon Yi, Sungchul Park, Ji-sook Choi, Won Mo Jang' : '4 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
     </div>
-  </div>
+  </div> 
 </div>
+
 
 <br>
 

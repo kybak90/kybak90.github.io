@@ -81,13 +81,13 @@
       - Dynamics of COVID-19 risk perception and predictors in South Korea: a two-year longitudinal study from the pandemic’s beginning (2020-2021) (published)
     </p>
     <p class="my-enumerate">
-      - Comparison of cognitive and affective dimensions of multi-risk perception according to sociodemographic characteristics in a South Korean population (published)
+      - Comparison of multi-risk perceptions and sociodemographic characteristics in South Korea: cognitive and affective dimensions (published)
     </p>
     <p class="my-enumerate">
       - Establishing a panel dataset for the survey on the effects of minimum wage implementation (published)
     </p>
     <p class="my-enumerate">
-      - Political party preference, accountability, and risk perception: Crowd crush in South Korea (published)
+      - Political party preference, accountability, and risk perception: crowd crush in South Korea (under review)
     </p>
   </li>
 </ul>

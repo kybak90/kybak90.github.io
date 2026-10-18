@@ -110,8 +110,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Simultaneous estimation of nonparametric quantile regression with B-splines and norm-based penalties
-effects using inexactly matched data</div>
+    <div class="title">Simultaneous estimation of nonparametric quantile regression with B-splines and norm-based penalties</div>
     <!-- Author -->
     <div class="author">
     Eun-Ji Lee, Ja-Yong Koo, <em>Kwan-Young Bak</em>, Jae-Hwan Jhong
@@ -238,7 +237,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Political party preference, accountability, and risk perception: Crowd crush in South Korea</div>
+    <div class="title">Political party preference, accountability, and risk perception: crowd crush in South Korea</div>
     <!-- Author -->
     <div class="author">
     Yookyung Eoh, <em>Kwan-Young Bak</em>, Seoyeon Kim, and
@@ -344,7 +343,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">TVspline: function estimation based on total-variation penalized spline using R</div>
+    <div class="title">TVspline: function estimation based on total-variation penalized splines using R</div>
     <!-- Author -->
     <div class="author">
     <em>Kwan-Young Bak</em>, Ju-Seong Lee, Jae-Hwan Jhong

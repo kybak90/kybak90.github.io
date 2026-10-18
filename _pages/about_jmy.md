@@ -77,7 +77,7 @@
     - Risk of heart failure after spinal cord injury: a nationwide cohort study in South Korea (published)
     </p>
     <p class="my-enumerate">
-    - Association Between Parkinson’s Disease and Subsequent Depression Risk: A Nationwide Cohort Study (published)
+    - Risk of depression following Parkinson’s disease diagnosis: a nationwide retrospective cohort study in South Korea (published)
     </p>
     <p class="my-enumerate">
     - Association between irritable bowel syndrome and Guillain–Barré syndrome-related immune-mediated peripheral neuropathies: a nationwide cohort study (published)
@@ -88,11 +88,9 @@
     <p class="my-enumerate">
     - FastKRR: an R package for efficient kernel ridge regression with RcppArmadillo (under review)
     </p>
-
-    
-
-
-
+    <p class="my-enumerate">
+    - Fusion-penalized kernel regression with latent subgroup identification (under review)
+    </p>
   </li>
 </ul>
 

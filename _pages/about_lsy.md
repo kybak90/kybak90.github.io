@@ -67,7 +67,7 @@
   <li>
     <span class="spn5">Publications</span>
     <p class="my-enumerate">
-      - spheresmooth: a penalized piecewie geodeisc curve fitting on a sphere (published)
+      - spheresmooth: an R package for penalized piecewise geodesic curve fitting on a sphere (published)
     </p>
     <p class="my-enumerate">
     - FastKRR: Kernel Ridge Regression using 'RcppArmadillo' [Software] (published)
@@ -83,3 +83,5 @@
     </p>
   </li>
 </ul>
+
+

@@ -80,7 +80,7 @@
     - Activity apportioning models following multi-compartment dosimetry for radioembolization of liver tumors supplied by multiple arteries (under review)
     </p>
     <p class="my-enumerate">
-    - Association between risk perception of COVID-19 and voting intention for governing party candidate during the end phase of the pandemic (published)
+    - Voting intentions during the later stage of the COVID-19 pandemic: the roles of risk perception and performance evaluations in South Korea (published)
     </p>
     <p class="my-enumerate">
     - R programming with workflow design [Book] (published)
@@ -91,5 +91,10 @@
     <p class="my-enumerate">
     - FastKRR: an R package for efficient kernel ridge regression with RcppArmadillo (under review)
     </p>
+    <p class="my-enumerate">
+    - Fusion-penalized kernel regression with latent subgroup identification (under review)
+    </p>
   </li>
 </ul>
+
+

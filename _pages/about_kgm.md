@@ -77,7 +77,7 @@
       - Multi-task nonparametric regression under joint sparsity (published)
     </p>
     <p class="my-enumerate">
-    - Activity apportioning models following multi-compartment dosimetry for radioembolization of liver tumors supplied by multiple arteries
+    - Activity apportioning models following multi-compartment dosimetry for radioembolization of liver tumors supplied by multiple arteries (under review)
     </p>
     <p class="my-enumerate">
     - Voting intentions during the later stage of the COVID-19 pandemic: the roles of risk perception and performance evaluations in South Korea (published)

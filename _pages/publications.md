@@ -317,6 +317,20 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
+    <div class="title">Patterns of Traditional Bullying and Cyberbullying Victimization and Perpetration Among Korean Adolescents: Latent Class Analysis of Nationally Representative Data</div>
+    <!-- Author -->
+    <div class="author">
+    Ryemi Do, Youngsun Kim, <em>Kwan-Young Bak</em>, Yookyung Eoh
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <!-- Entry bib key -->
+  <div class="col-sm-10">
+    <!-- Title -->
     <div class="title">FastKRR: an R package for efficient kernel ridge regression with RcppArmadillo</div>
     <!-- Author -->
     <div class="author">

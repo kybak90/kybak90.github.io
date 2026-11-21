@@ -28,7 +28,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Work in Progress</h3>
-  <p> <span class="spn1">Last updated: September 18, 2026. </span> </p>
+  <p> <span class="spn1">Last updated: November 21, 2026. </span> </p>
 </div>
 
 <br>
@@ -279,7 +279,7 @@ effects using inexactly matched data</div>
                   clearInterval(textAdder);
                 }
             }, '10');
-          ">3 more authors</span>
+          ">4 more authors</span>
     </div>
   </div> 
 </div>
@@ -294,11 +294,11 @@ effects using inexactly matched data</div>
     <div class="title">Risk of anxiety disorder after spinal cord injury: a nationwide cohort study in South Korea, 2012–2023</div>
     <!-- Author -->
     <div class="author">
-    Seung Won Lee, Miyoung Jang, Wonsuk Shin, Jin Hoon Park, and 
+    Miyoung Jang, Seung Won Lee, Jongjoo Lee, <em>Kwan-Young Bak</em>, and
     <span class="more-authors" title="click to view 3 more authors" onclick="
               var element = $(this);
               element.attr('title', '');
-              var more_authors_text = element.text() == '3 more authors' ? 'Kwan-Young Bak, Hohyun Jung, Youngoh Bae' : '3 more authors';
+              var more_authors_text = element.text() == '3 more authors' ? 'Jae June Dong, Hohyun Jung, Youngoh Bae' : '3 more authors';
               var cursorPosition = 0;
               var textAdder = setInterval(function(){
                 element.html(more_authors_text.substring(0, cursorPosition + 1));
@@ -321,7 +321,7 @@ effects using inexactly matched data</div>
     <!-- Author -->
     <div class="author">
     Gyeongmin Kim, Seyoung Lee, Miyoung Jang, Dongha Kim, and
-    <span class="more-authors" title="click to view 3 more authors" onclick="
+    <span class="more-authors" title="click to view 1 more author" onclick="
               var element = $(this);
               element.attr('title', '');
               var more_authors_text = element.text() == '1 more author' ? 'Kwan-Young Bak' : '1 more author';

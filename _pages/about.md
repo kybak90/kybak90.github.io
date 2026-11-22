@@ -9,7 +9,10 @@ email: kybak@sungshin.ac.kr
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic_home.webp
+  image_width: 1080
+  image_height: 1611
+  image_alt: Portrait of Kwan-Young Bak
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items

@@ -317,7 +317,7 @@ effects using inexactly matched data</div>
   <!-- Entry bib key -->
   <div class="col-sm-10">
     <!-- Title -->
-    <div class="title">Patterns of Traditional Bullying and Cyberbullying Victimization and Perpetration Among Korean Adolescents: Latent Class Analysis of Nationally Representative Data</div>
+    <div class="title">Patterns of traditional bullying and cyberbullying victimization and perpetration among Korean adolescents: latent class analysis of nationally representative data</div>
     <!-- Author -->
     <div class="author">
     Ryemi Do, Youngsun Kim, <em>Kwan-Young Bak</em>, Yookyung Eoh

@@ -28,7 +28,7 @@ This page highlights <span class="spn1">selected publications</span> and <span c
 
 <div style="padding-top: 100px;">
   <h3 class="my-heading">Work in Progress</h3>
-  <p> <span class="spn1">Last updated: November 21, 2026. </span> </p>
+  <p> <span class="spn1">Last updated: November 24, 2026. </span> </p>
 </div>
 
 <br>
@@ -77,32 +77,6 @@ effects using inexactly matched data</div>
   </div>
 </div>
 
-
-<br>
-
-<div class="row">
-  <!-- Entry bib key -->
-  <div class="col-sm-10">
-    <!-- Title -->
-    <div class="title">Activity apportioning models following multi-compartment dosimetry for radioembolization of liver tumors supplied by multiple arteries</div>
-    <!-- Author -->
-    <div class="author">
-    Jin Woo Choi, Gyeongmin Kim, Anshul Chabra, Minseok Suh, and
-    <span class="more-authors" title="click to view 2 more authors" onclick="
-              var element = $(this);
-              element.attr('title', '');
-              var more_authors_text = element.text() == '2 more authors' ? 'Juil Park, Kwan-Young Bak' : '2 more authors';
-              var cursorPosition = 0;
-              var textAdder = setInterval(function(){
-                element.html(more_authors_text.substring(0, cursorPosition + 1));
-                if (++cursorPosition == more_authors_text.length){
-                  clearInterval(textAdder);
-                }
-            }, '10');
-          ">2 more authors</span>
-    </div>
-  </div> 
-</div>
 
 <br>
 
